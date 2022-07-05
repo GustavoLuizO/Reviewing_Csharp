@@ -23,6 +23,12 @@ namespace Nulaable
             
             if (valor2.HasValue)
                 Console.WriteLine(valor2.Value);
+
+            double? x = null;
+            double y = 10;
+
+            double a = x ?? y;
+            Console.WriteLine(a);
         }
     }
 }
