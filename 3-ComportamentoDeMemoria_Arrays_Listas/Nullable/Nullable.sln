@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nulaable", "Nulaable\Nulaable.csproj", "{B43DB687-CB20-4D49-828E-8B79D26D3AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43DB687-CB20-4D49-828E-8B79D26D3AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43DB687-CB20-4D49-828E-8B79D26D3AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43DB687-CB20-4D49-828E-8B79D26D3AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43DB687-CB20-4D49-828E-8B79D26D3AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BEA9A71-4614-444E-A7C6-8525FD355C8F}
+	EndGlobalSection
+EndGlobal
