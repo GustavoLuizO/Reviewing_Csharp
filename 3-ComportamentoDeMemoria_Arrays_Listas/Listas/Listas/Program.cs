@@ -41,11 +41,11 @@ namespace Listas
             lista.RemoveAt(0);
 
             //Remove por Range - Remove referente o range das posições que voce colocar
-            lista.RemoveRange(0, 5);
-            foreach (var item in lista)
-            {
-                Console.WriteLine(item);
-            }
+            //lista.RemoveRange(0, 5);
+            //foreach (var item in lista)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
     }
 }
